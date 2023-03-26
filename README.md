@@ -1,36 +1,43 @@
-### Hi there 👋
+<!--
+<div>
+<div align="left" position="flex">
+<img src="https://i.imgur.com/gdAIu72.png)" posotion="left" width="40px" height="40px">
+<img src="https://i.imgur.com/3UJ5ZOt.png)" width="40px" height="40px" align="right" >
+</div>
+-->
+<div align="center">
+<img src="https://i.imgur.com/M6fhtDb.gif" position="center" width="50px" height="50px" >
+</div>
 
+<p align="center"><strong>Carregando portifólio...</strong></p>
 
-Make yourself at home.
-<p style="display:flex;">
-<details>
-    <summary><strong>About Me</strong> 😄 </summary>
+![ nada ](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO-CONSTANTE&color=GREEN&style=for-the-badge)
+<div>   
     <br>
     <ul>
         <li>
-            🔭 Atualmente sou bolsista no Laboratório de Robôtica da Universidade de São Paulo
+            🔭 Atualmente  faço cursos e projetos  alem da faculdade, para absorver mais conhecimento.
         </li>
         <li>
-            🌱 Graduando em Engenharia Mecatrônica pela Escola de Engenharia de São Carlos - USP
+            🌱 Cursando Graduação em analise e desenvolvimento de sistemas, na faculdade Cruzeiro do sul EAD.
         </li>
         <li>
             ⚡ Querendo me desenvolver mais na área da programação (full stack e data science)
-        </li>
-        <li>
-            Ele/Dele
         </li>
     </ul>
 </details>
 </p>
 
+<h3> 📚 Estatísticas do Github: <br></h3>
+  
+<div>
+<a href="[ https://github.com/Gabycsouza ](https://github.com/Gabycsouza)">  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabycsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+<br>
 
 <div align="center" style="display: flex">
-  <a href="https://github.com/NicolasFCruvinel">
-  <img width="400px" height="190px" src="https://github-readme-stats.vercel.app/api?username=NicolasFCruvinel&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox"/>
-  <img width="300px" height="185px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFCruvinel&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-  
-<div align="center">
   <h3>Linguagens já vistas por mim</h3>
 </div>
     
@@ -50,12 +57,9 @@ Make yourself at home.
   <h3>Find me</h3>
 </div>
 <div align="center"> 
-  <a href="https://instagram.com/nicolas_cruvinel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/nicolas-cruvinel-703a03217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/Cruvinel_Nicolas" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="mailto:nicolasfcmsouza@usp.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/g.cachoni/"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriela-s-a6232b141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://t.me/GabySouza" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="mailto:cachoni55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- 
-  ![Snake animation](https://github.com/NicolasFCruvinel/NicolasFCruvinel/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
