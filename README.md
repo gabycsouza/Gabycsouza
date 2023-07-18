@@ -28,15 +28,6 @@
 </details>
 </p>
 
-<h3> 📚 Estatísticas do Github: <br></h3>
-  
-<div>
-<a href="[ https://github.com/Gabycsouza ](https://github.com/Gabycsouza)">  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabycsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-<br>
-
 <div align="center" style="display: flex">
   <h3>Linguagens já vistas por mim</h3>
 </div>
